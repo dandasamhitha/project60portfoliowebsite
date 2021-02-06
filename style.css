@@ -1,0 +1,92 @@
+body {
+    background: linear-gradient(#AA00FF, #D500F9);
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+#piano {
+    border-radius: 50%;
+    width: 100px;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 450px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+#name {
+    font-family: 'Dancing Script', cursive;
+}
+
+#deckthehalls {
+    width: 500px;
+    height: 800px;
+}
+
+#HélèneGrimaud {
+    width: 600px;
+    height: 800px;
+}
+
+#HélèneGrimaud:hover {
+    transform: scale(0.9);
+}
+
+.button {
+    background-color: #ff66ff;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.links {
+    display: inline;
+    color: #00ccff;
+    padding-top: 5px;
+    padding-left: 23px;
+    padding-right: 15px;
+    font-size: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+p {
+    font-family: 'Kalam', cursive;
+}
+
+li {
+    font-family: 'Tangerine', cursive;
+    color: #0e27e3;
+}
+
+li:hover {
+    background-color: #ffcdd2;
+}
